@@ -2,7 +2,8 @@
 
 ###
 
-<p align="left">👋 Hello world!<br><br>Frontend Web developer, When I'm not coding, you'll find me capturing nature's beauty through my camera lens.<br><br>🛠️ Skilled In<br><br>💻 HTML<br>🎨 CSS<br>⚙️ JavaScript<br><br> 🌱 Currently Learning<br><br> ⚛️ React<br>🖌️ Tailwind CSS<br>🕸️ Next.js<br><br>🤝 Let's Collaborate!<br><br>I'm open to collaborating on projects that involve frontend development, especially those using the latest technologies. If you have an exciting project or idea, feel free to reach out!</p>
+<p align="left">👋 Hello world!<br><br>I am a Frontend Web Developer. When I'm not coding, you'll find me capturing the beauty of nature through my camera lens.
+<br><br>🛠️ Skilled In<br><br>💻 HTML<br>🎨 CSS<br>⚙️ JavaScript<br><br> 🌱 Currently Learning<br><br> ⚛️ React<br>🖌️ Tailwind CSS<br>🕸️ Next.js<br><br>🤝 Let's Collaborate!<br><br>I'm open to collaborating on projects that involve frontend development, especially those using the latest technologies. If you have an exciting project or idea, feel free to reach out!</p>
 
 ###
 
