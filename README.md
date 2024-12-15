@@ -3,7 +3,7 @@
 ###
 
 <p align="left">👋 Hello world!<br><br>I'm a Frontend Web Developer. When I'm not coding, you'll find me capturing the beauty of nature through my camera lens.
-<br><br>🛠️ Skilled In<br><br>💻 HTML<br>🎨 CSS<br>⚙️ JavaScript<br><br> 🌱 Currently Learning<br><br> ⚛️ React<br>🖌️ Tailwind CSS<br>🕸️ Next.js<br><br>🤝 Let's Collaborate!<br><br>I'm open to collaborating on projects that involve frontend development, especially those using the latest technologies. If you have an exciting project or idea, feel free to reach out!</p>
+<br><br>🛠️ Skilled In<br><br>💻 HTML<br>🎨 CSS<br>⚙️ JavaScript<br><br> 🌱 Currently Learning<br><br> ⚛️ React<br>🖌️ Tailwind CSS<br>🕸️ Node.js<br><br>🤝 Let's Collaborate!<br><br>I'm open to collaborating on projects that involve frontend development, especially those using the latest technologies. If you have an exciting project or idea, feel free to reach out!</p>
 
 ###
 
@@ -38,7 +38,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nextjs logo"  />
 </div>
 
 ###
