@@ -3,7 +3,7 @@
 ###
 
 <p align="left">👋 Hello world!<br><br>I'm a Frontend Web Developer. When I'm not coding, you'll find me capturing the beauty of nature through my camera lens.
-<br><br>🛠️ Skilled In<br><br>💻 HTML<br>🎨 CSS<br>⚙️ JavaScript<br>⚛️ React<br>🖌️ Tailwind CSS<br> 🌱 Currently Learning<br>🕸️ Node.js<br>🤝 Let's Collaborate!<br><br>I'm open to collaborating on projects that involve frontend development, especially those using the latest technologies. If you have an exciting project or idea, feel free to reach out!</p>
+<br><br>🛠️ Skilled In<br><br>💻 HTML<br>🎨 CSS<br>⚛️ React<br>⚙️ JavaScript<br>🖌️ Tailwind CSS<br> <br>🌱 Currently Learning<br>🕸️ Node.js<br>🤝 Let's Collaborate!<br><br>I'm open to collaborating on projects that involve frontend development, especially those using the latest technologies. If you have an exciting project or idea, feel free to reach out!</p>
 
 ###
 
